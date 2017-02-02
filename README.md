@@ -42,7 +42,7 @@ The client follows the [12-factor](http://12factor.net/config) apps principle an
 
 ```ruby
 # Initialize using parameters
-mailface = MailFace.new(api_key: '...', api_secret: '...')
+mailface = MailFace.new(app_id: '...', api_key: '...', api_secret: '...')
 
 # Alternative: Initialize using environment variables
 # * MAILFACE_API_KEY
