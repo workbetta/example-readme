@@ -2,6 +2,7 @@
 
 [![Gem Version](http://img.shields.io/gem/v/twilio-ruby.svg)][gem]
 [![Build Status](http://img.shields.io/travis/twilio/twilio-ruby.svg)][travis]
+[![Contact Support](https://img.shields.io/badge/contact-support-blue.svg)][support]
 
 MailFace is an API for mailing your face to any email address. With one simple API call you can send your face  and get first class delivery. 
 
@@ -76,3 +77,4 @@ This library is released under the [MIT License](LICENSE).
 
 [gem]: https://rubygems.org/gems/twilio-ruby
 [travis]: http://travis-ci.org/twilio/twilio-ruby
+[support]: http://mailface.xyz/support
