@@ -68,7 +68,11 @@ Alternatively head over to our [Reference](https://mailface.xyz/docs/ruby/refere
 
 ## Contributing
 
+Want to contribute to this library? Read our [contributor guidelines](CONTRIBUTING.md) to get set up.
+
 ## License
+
+This library is released under the [MIT License](LICENSE).
 
 [gem]: https://rubygems.org/gems/twilio-ruby
 [travis]: http://travis-ci.org/twilio/twilio-ruby
