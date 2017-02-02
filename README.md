@@ -55,7 +55,7 @@ __Next__: [Learn more about our initializing the Ruby SDK](https://mailface.xyz/
 
 ## Documentation
 
-MailFace is a powerful tool. Our documentation is here to get you started today.
+MailFace is a powerful tool and our documentation is here to get you started today.
 
 * [Get Started](https://mailface.xyz/docs/ruby/get_started) documentation
   * [Initialize the SDK](https://mailface.xyz/docs/ruby/get_started/initialize)
@@ -64,6 +64,10 @@ MailFace is a powerful tool. Our documentation is here to get you started today.
   * [Check the status of a face mailed](https://mailface.xyz/docs/ruby/get_started/check_status)
 
 Alternatively head over to our [Reference](https://mailface.xyz/docs/ruby/reference) documentaton for in-depth information about every SDK method, it's arguments and return types.
+
+## Contributing
+
+## License
 
 [gem]: https://rubygems.org/gems/twilio-ruby
 [travis]: http://travis-ci.org/twilio/twilio-ruby
