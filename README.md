@@ -64,7 +64,7 @@ MailFace is a powerful tool and our documentation is here to get you started tod
   * [Send to multiple faces](https://mailface.xyz/docs/ruby/get_started/send_multiple_faces)
   * [Check the status of a face mailed](https://mailface.xyz/docs/ruby/get_started/check_status)
 
-Alternatively head over to our [Reference](https://mailface.xyz/docs/ruby/reference) documentaton for in-depth information about every SDK method, it's arguments and return types.
+Alternatively, head over to our [Reference](https://mailface.xyz/docs/ruby/reference) documentaton for in-depth information about every SDK method, it's arguments and return types.
 
 ## Contributing
 
