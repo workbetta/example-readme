@@ -19,10 +19,11 @@ __Next__: [Get Started with the Ruby SDK.](https://mailface.xyz/docs/ruby/get_st
 
 ## Getting Started
 
-To send your first face via email:
+To send your first face via email you will need to [register for MailFace](https://mailface.xyz/register) and [set up your first application](https://dashboard.mailface.xyz/applications).
 
 ```ruby
 mailface = MailFace.new({
+  app_id: '[YOUR_APP_ID]',
   api_key: '[YOUR_API_KEY]',
   api_secret: '[YOUR_API_SECRET]'
 })
@@ -49,7 +50,7 @@ mailface = MailFace.new(api_key: '...', api_secret: '...')
 mailface = MailFace.new
 ```
 
-Your credentials can be found on [the MailFace dashboard]((https://dashboard.mailface.xyz/api_keys). [Sign up](https://mailface.xyz/register) for an account today. 
+Your credentials can be found on the [MailFace dashboard](https://dashboard.mailface.xyz/api_keys). [Sign up](https://mailface.xyz/register) for an account today. 
 
 __Next__: [Learn more about our initializing the Ruby SDK](https://mailface.xyz/docs/ruby/get_started_initialize) in our documentation.
 
