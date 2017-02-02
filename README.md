@@ -7,7 +7,11 @@ MailFace is an API for mailing your face to your customers. With one simple API 
 
 For more details see the [Ruby documentation](https://mailface.xyz/docs) on [MailFace.xyz](https://mailface.xyz).
 
+## Install 
 
+## Initialize
+
+## Get Started
 
 [gem]: https://rubygems.org/gems/twilio-ruby
 [travis]: http://travis-ci.org/twilio/twilio-ruby
