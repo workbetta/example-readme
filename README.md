@@ -5,7 +5,7 @@
 
 MailFace is an API for mailing your face to your customers. With one simple API call you can send your face to any email address and get first class delivery. 
 
-For more details see the [Ruby documentation](https://mailface.xyz/docs) on [MailFace.xyz](https://mailface.xyz).
+For more details see the [Ruby documentation](https://mailface.xyz/docs/ruby) on [MailFace.xyz](https://mailface.xyz).
 
 ## Installation
 
@@ -49,12 +49,11 @@ mailface = MailFace.new(api_key: '...', api_secret: '...')
 mailface = MailFace.new
 ```
 
+Your credentials can be found on [the MailFace dashboard]((https://dashboard.mailface.xyz/api_keys). [Sign up](https://mailface.xyz/register) for an account today. 
+
 __Next__: [Learn more about our initializing the Ruby SDK](https://mailface.xyz/docs/ruby/get_started_initialize) in our documentation.
 
 ## Documentation
-
-
-
 
 
 [gem]: https://rubygems.org/gems/twilio-ruby
