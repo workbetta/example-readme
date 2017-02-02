@@ -15,7 +15,7 @@ This gem requires Ruby 2.1+. You can install install it directly or via bundler.
 gem install 'mailface'
 ```
 
-__Next__: [Get Started with the Ruby SDK.](https://mailface.xyz/docs/get_started_ruby) 
+__Next__: [Get Started with the Ruby SDK.](https://mailface.xyz/docs/ruby/get_started/initialize) 
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ To send your first face via email:
 ```ruby
 mailface = MailFace.new({
   api_key: '[YOUR_API_KEY]',
-  api_key: '[YOUR_API_SECRET]'
+  api_secret: '[YOUR_API_SECRET]'
 })
 
 mailface.send({
@@ -33,11 +33,27 @@ mailface.send({
 }) 
 ```
 
-__Next__: [Learn more about our Ruby SDK.](https://mailface.xyz/docs/get_started_ruby)
+__Next__: [Learn more about our sending faces](https://mailface.xyz/docs/ruby/get_started/send_face) with our Ruby SDK.
 
 ## Initialization
 
+The client follows the [12-factor](http://12factor.net/config) apps principle and can be either set directly or via environment variables.
+
+```ruby
+# Initialize using parameters
+mailface = MailFace.new(api_key: '...', api_secret: '...')
+
+# Alternative: Initialize using environment variables
+# * MAILFACE_API_KEY
+# * MAILFACE_API_SECRET
+mailface = MailFace.new
+```
+
+__Next__: [Learn more about our initializing the Ruby SDK](https://mailface.xyz/docs/ruby/get_started_initialize) in our documentation.
+
 ## Documentation
+
+
 
 
 
