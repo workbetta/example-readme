@@ -75,9 +75,9 @@ Want to contribute to this library? Read our [contributor guidelines](CONTRIBUTI
 
 This library is released under the [MIT License](LICENSE).
 
-## Support
+## Help
 
-Our support is here to help you. You can find us on [Twitter](https://twitter.com/mailfacexyz), [StackOverflow](#), and [email](#).
+Our [developer support team](https://mailface.xyz/developers) is here to help you. You can find us on [Twitter](https://twitter.com/mailfacexyz), [StackOverflow](#), and [email](#).
 
 [gem]: https://rubygems.org/gems/twilio-ruby
 [travis]: http://travis-ci.org/twilio/twilio-ruby
